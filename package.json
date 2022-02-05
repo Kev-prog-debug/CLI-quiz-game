@@ -1,0 +1,20 @@
+{
+  "name": "cli-game",
+  "version": "1.0.0",
+  "description": "A CLI game using NodeJS. Idea based on Firebase CLI-quiz game",
+  "main": "index.js",
+  "type": "ESM",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kev-prog-debug",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
